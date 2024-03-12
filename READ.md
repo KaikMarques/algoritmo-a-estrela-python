@@ -10,7 +10,8 @@ Algoritmo A Estrela (A*) é um algoritmo de otmização, neste projeto será uti
 Bibliotecas:
 
 # Pyamaze {
-    Scripts em Python para gerar labirintos aleatórios solucionáveis usando os algoritmos de busca em profundidade e retrocesso recursivo. O código também implementa um algoritmo de busca em retrocesso recursivo para resolver os labirintos gerados. 
+
+####   Scripts em Python para gerar labirintos aleatórios solucionáveis usando os algoritmos de busca em profundidade e retrocesso recursivo. O código também implementa um algoritmo de busca em retrocesso recursivo para resolver os labirintos gerados. 
 
 ## Agent
 
