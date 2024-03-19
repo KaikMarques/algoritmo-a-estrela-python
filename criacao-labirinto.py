@@ -36,3 +36,4 @@ labirinto.tracePath({agente: caminho}, delay=200)
 texto = textLabel(labirinto, title="Nº passos", value=len(caminho))
 labirinto.run()
 
+Agora irei criar o algoritmo neste video:  https://www.youtube.com/watch?v=fTtYzHfGlyk
